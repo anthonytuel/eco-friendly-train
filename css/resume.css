@@ -190,11 +190,11 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-  color: #bd5d38;
+  color: #aaa0a0;
 }
 
 a:hover,
 a:focus,
 a:active {
-  color: #97aabd;
+  color: #c0b283;
 }
